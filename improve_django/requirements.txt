@@ -1,0 +1,5 @@
+Django==2.1.3
+coverage==4.5.2
+django-debug-toolbar==1.11
+selenium==2.53.1
+sqlparse==0.2.4
